@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: #151515;
+  color: #FFFFFF;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h2.planning {
+    color: #FFFFFF;
+    text-decoration: underline;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+p.link{
+  color: #FFFFFF;
+  font-size: 14px;
+}
+button{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
